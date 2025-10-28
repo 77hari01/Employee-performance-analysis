@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # app
 
 A new Flutter project.
@@ -16,6 +17,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# Employee-performance-analysis-system-" 
+=======
+"# Employee-performance-analysis" 
+>>>>>>> dc4b973cfc4d6cbfd4ac45f45f87afa2170b52b0
 =======
 "# Employee-performance-analysis" 
 >>>>>>> dc4b973cfc4d6cbfd4ac45f45f87afa2170b52b0
